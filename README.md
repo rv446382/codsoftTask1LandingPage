@@ -1,1 +1,1 @@
-# codsoftTask2LandingPage
+# codsoftTask1LandingPage
